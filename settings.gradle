@@ -1,0 +1,5 @@
+rootProject.name = 'veloforum'
+
+include 'webapp'
+include 'domain'
+
